@@ -4,6 +4,6 @@ Welcome to my github page. Here you can find information and links to projects I
 [Example Post-Game Report](https://rpubs.com/renjenk/1100390)
 ### Mid Season Analysis Report:
 [Round 1 Data Analysis](https://docs.google.com/presentation/d/1xluiBCc0W3n5ApfQVSiNWk25YfA4K_Q_tAopd9UKSYA/edit#slide=id.p)
-### Correlation within Season Data Collected
+### Statistical Modeling and Principal Component Analysis
 Cloropleth of Correlations:(insert image here)
-### Principal Component Anlysis:
+PCA:()
