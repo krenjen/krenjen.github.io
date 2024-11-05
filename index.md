@@ -9,3 +9,6 @@ Welcome to my github page. Here you can find information and links to projects I
 [Link](https://github.com/krenjen/krenjen.github.io/blob/main/Cloropleth%20for%20Blues%20Data.JPG)
 ##### PCA:
 [Link](https://github.com/krenjen/krenjen.github.io/blob/main/PCA%20analysis%20of%20Blues%20Data.JPG)
+
+# Location Data Project in Intro to Data Science Fall 2024
+[Link](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)
