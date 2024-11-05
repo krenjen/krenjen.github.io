@@ -11,3 +11,8 @@
 
 # Location Data Project in Intro to Data Science Fall 2024
 [Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)
+
+### Contact Info
+[Email](kunalrenjen@gmail.com)
+[Linkedin](www.linkedin.com/in/kunal-renjen-193a03251)
+
