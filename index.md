@@ -9,6 +9,3 @@ Welcome to my github page. Here you can find information and links to projects I
 [Link](https://github.com/krenjen/krenjen.github.io/blob/main/Cloropleth%20for%20Blues%20Data.JPG)
 ##### PCA:
 [Link](https://github.com/krenjen/krenjen.github.io/blob/main/PCA%20analysis%20of%20Blues%20Data.JPG)
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
