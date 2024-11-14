@@ -12,23 +12,23 @@
 # Data Sources and Project Ideas
 ##### U.S Census Data 
 Description: Data from the U.S census which occurs every 10 years, including important topics such as diversity, median income, unemployment.<br>
-Idea: Analyze trends in median income, diversity, unemployment and population from Snohomish County, Washington, and compare to neigboring counties.
+Idea: Analyze trends in median income, diversity, unemployment and population from Snohomish County, Washington, and compare to neigboring counties.<br>
 [U.S Census Data](https://data.census.gov/)
 ##### Family Guy Data via Kaggle 
-Description: Contains data from 21 seasons of the popular comedy show Family Guy, including director info, run time and imbd ratings
-Idea: Analyze which seasons had the highest IMBD rating, average runtime. 
+Description: Contains data from 21 seasons of the popular comedy show Family Guy, including director info, run time and imbd ratings.<br>
+Idea: Analyze which seasons had the highest IMBD rating, average runtime.<br> 
 [Family Guy Data](https://www.kaggle.com/datasets/iamsouravbanerjee/family-guy-dataset)
 ##### Champions League Data  
-Description: Contains champions league data from the 92/93 season to the 21/22 season, on top goal scorer, goals scored per round of the competition and managers. 
-Idea: Analyze trends in goals scored per round over time, top goal scorer per season and possible managerial impact. 
+Description: Contains champions league data from the 92/93 season to the 21/22 season, on top goal scorer, goals scored per round of the competition and managers.<br> 
+Idea: Analyze trends in goals scored per round over time, top goal scorer per season and possible managerial impact.<br> 
 [Champions League Data](https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/)
 ##### U.S Economic Data  
-Description: Comtains data on the U.S economy, with time series data of important econmic indicators such as CPI, unemployment, GDP and bond yields. 
-Idea: Analyze and find correlations between economic indicators as well as connecting trends in economic data to real world events such as the COVID pandemic or the 2008 housing crisis
+Description: Comtains data on the U.S economy, with time series data of important econmic indicators such as CPI, unemployment, GDP and bond yields.<br> 
+Idea: Analyze and find correlations between economic indicators as well as connecting trends in economic data to real world events such as the COVID pandemic or the 2008 housing crisis.<br>
 [FRED Data](https://fred.stlouisfed.org/)
 ##### Most Streamed Songs on Spotify 2023 Data via Kaggle
-Description: Contains data of the most streamed songs on spotify in 2023, including track name, artist name, streams and release year. 
-Idea: Analyze popularity of particular artists and songs. 
+Description: Contains data of the most streamed songs on spotify in 2023, including track name, artist name, streams and release year.<br> 
+Idea: Analyze popularity of particular artists and songs.<br> 
 [Spotify 2023 Data](https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023)
 
 
