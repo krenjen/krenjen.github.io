@@ -35,7 +35,7 @@ Idea: Analyze popularity of particular artists and songs.<br>
 
 # Where is Schueller?
 [Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)<br>
-![Live Plotly Image](plotly_live_image.html)
+![Live Plotly Image](file:///C:/Users/prenj/AppData/Local/Temp/9b8e58e4-d007-4542-9083-b778d8e28d13_plotly_live_image-zip.zip.d13/plotly_live_image%20-%20Copy.html)
 
 ### Contact Info
 [Email](kunalrenjen@gmail.com)<br>
