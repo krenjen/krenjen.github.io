@@ -35,9 +35,9 @@ Idea: Analyze popularity of particular artists and songs.<br>
 
 # Where is Schueller?
 [Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)<br>
-[Live Plotly Image](https://raw.githubusercontent.com/krenjen/krenjen.github.io/refs/heads/main/plotly_live_image.html)
+<iframe src = "https://raw.githubusercontent.com/krenjen/krenjen.github.io/refs/heads/main/plotly_live_image.html" ></iframe>
 
 ### Contact Info
-[Email](kunalrenjen@gmail.com)<br>
+[Email](kunalrenjen@gmail.com)<br> 
 [Linkedin](www.linkedin.com/in/kunal-renjen-193a03251)
 
