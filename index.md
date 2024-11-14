@@ -35,11 +35,13 @@ Idea: Analyze popularity of particular artists and songs.<br>
 
 # Where is Schueller?
 [Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)<br>
-###### <iframe src = "https://raw.githubusercontent.com/krenjen/krenjen.github.io/refs/heads/main/plotly_live_image.html" ></iframe>
 {% include_relative plotly_live_image.html %}
 
 # Above and Beyond
-##### 
+##### Data Idea Number 6: Fantasy Football Data from 2017-2023 via Kaggle
+Description: Contains data of player performance in fantasy football from the 2017-2023 seasons, including player name, team, PPR score, year and position. <br>
+Idea: Analyze and compare team, player and position performances.<br>
+[Fantasy Football Data](https://www.kaggle.com/datasets/gbolduc/fantasy-football-data-2017-2023)
 
 ### Contact Info
 [Email](kunalrenjen@gmail.com)<br> 
