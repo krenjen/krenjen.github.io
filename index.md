@@ -11,8 +11,8 @@
 
 # Data Sources and Project Ideas
 ##### U.S Census Data 
-Description: Data from the U.S census which occurs every 10 years, including important topics such as diversity, median income, unemployment.< br / >
-Idea: Analyze trends in median income, diversity, unemployment and population from Snohomish County, Washington, and compare to neigboring counties.
+Description: Data from the U.S census which occurs every 10 years, including important topics such as diversity, median income, unemployment.
+< br / > Idea: Analyze trends in median income, diversity, unemployment and population from Snohomish County, Washington, and compare to neigboring counties.
 [U.S Census Data](https://data.census.gov/)
 ##### Family Guy Data via Kaggle 
 Description: Contains data from 21 seasons of the popular comedy show Family Guy, including director info, run time and imbd ratings
