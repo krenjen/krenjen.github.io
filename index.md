@@ -35,7 +35,7 @@ Idea: Analyze popularity of particular artists and songs.<br>
 
 # Where is Schueller?
 [Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)<br>
-# <iframe src = "https://raw.githubusercontent.com/krenjen/krenjen.github.io/refs/heads/main/plotly_live_image.html" ></iframe>
+###### <iframe src = "https://raw.githubusercontent.com/krenjen/krenjen.github.io/refs/heads/main/plotly_live_image.html" ></iframe>
 {% include_relative plotly_live_image.html %}
 
 # Above and Beyond
