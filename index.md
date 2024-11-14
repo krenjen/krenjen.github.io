@@ -34,10 +34,10 @@ Idea: Analyze popularity of particular artists and songs.<br>
 
 
 # Where is Schueller?
-[Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)
+[Location Data Document](https://colab.research.google.com/drive/1e5gdCbN_9d1TmugovpgLvnn8vOKwE9J-)<br>
 [Live Image](https://github.com/krenjen/krenjen.github.io/blob/main/plotly_live_image.html)
 
 ### Contact Info
-[Email](kunalrenjen@gmail.com)
+[Email](kunalrenjen@gmail.com)<br>
 [Linkedin](www.linkedin.com/in/kunal-renjen-193a03251)
 
