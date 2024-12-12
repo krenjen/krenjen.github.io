@@ -43,6 +43,10 @@ Description: Contains data of player performance in fantasy football from the 20
 Idea: Analyze and compare team, player and position performances.<br>
 [Fantasy Football Data](https://www.kaggle.com/datasets/gbolduc/fantasy-football-data-2017-2023)
 
+# Fantasy Football Project: Analyzing Fantasy Football Data from 2017-2022
+This project aims to analyze the best performing players in the fantasy football position
+[Link to Project](link)
+
 ### Contact Info
 [Email](kunalrenjen@gmail.com)<br> 
 [Linkedin](www.linkedin.com/in/kunal-renjen-193a03251)
