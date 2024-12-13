@@ -45,7 +45,7 @@ Idea: Analyze and compare team, player and position performances.<br>
 
 # Fantasy Football Project: Analyzing Fantasy Football Data from 2017-2022
 This project aims to analyze the best performing players in the fantasy football positions of quarterback, runningback and wide receivers in addition to finding experimental predictors for total fantasy points. <br>
-[Link to Project]((https://github.com/krenjen/krenjen.github.fantasyfootballproject/blob/main/README.md))
+[Link to Project](https://github.com/krenjen/krenjen.github.fantasyfootballproject/blob/main/README.md)
 
 ### Contact Info
 [Email](kunalrenjen@gmail.com)<br> 
